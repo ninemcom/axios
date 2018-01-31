@@ -79,5 +79,27 @@
       "path": "./dist/axios.min.js",
       "threshold": "5kB"
     }
-  ]
+  ],
+  "bundleDependencies": false,
+  "deprecated": false,
+  "_from": "git+https://github.com/ninemcom/axios.git",
+  "_id": "axios@0.17.1",
+  "_inBundle": false,
+  "_location": "/axios",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/ninemcom/axios",
+    "rawSpec": "git+https://github.com/ninemcom/axios",
+    "saveSpec": "git+https://github.com/ninemcom/axios.git",
+    "fetchSpec": "https://github.com/ninemcom/axios.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/ninemcom/axios.git#604e8dd86012392d8f588a3a8526a0d8a1ddb95f",
+  "_spec": "git+https://github.com/ninemcom/axios",
+  "_where": "/mnt/d/github/git-fiction-client/Content/Scripts"
 }
